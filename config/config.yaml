@@ -1,0 +1,13 @@
+defaults:
+  - hydra/job_logging: colorlog
+  - hydra/hydra_logging: colorlog
+
+hydra:
+  job_logging:
+    config: "{working_dir}/config/logging.conf"
+    color_mode: true
+
+block_vol_check:
+  config_file: null
+  compartment_id: null
+  output_csv: null

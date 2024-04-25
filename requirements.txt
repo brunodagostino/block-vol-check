@@ -1,0 +1,4 @@
+oci
+hydra-core
+hydra_colorlog
+setuptools
