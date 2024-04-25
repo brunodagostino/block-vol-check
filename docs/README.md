@@ -19,7 +19,7 @@ Block Volume Backup Checker is a Python application that lists block volumes and
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://
+git clone https://github.com/brunodagostino/block-vol-check.git
 ```
 
 2. Install the required Python packages:
